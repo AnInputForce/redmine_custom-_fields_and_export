@@ -18,7 +18,7 @@
 + [Redmine Extended Fields - Extended Fields 0.2.1 with Redmine 2.2.x support - Projects](http://projects.andriylesyuk.com/news/55)
 + [redmine pdf.rb - Google 搜索](https://www.google.com.hk/search?q=redmine+pdf.rb&newwindow=1&safe=strict&ei=X0TSUYWAHcTVkAXz0oDwCw&start=10&sa=N)
 + [Redmine V2.3 - Generate PDF Report with own layout - Redmine](http://www.redmine.org/boards/3/topics/37379)
-+ [Single column custom fields - Plugins - Redmine](http://www.redmine.org/plugins/single_column_custom_fields)
++ [Single column custom fields - Plugins - Redmine](httgitp://www.redmine.org/plugins/single_column_custom_fields)
 + [tcpdf html输出 - Google 搜索](https://www.google.com.hk/search?q=tcpdf+html输出&newwindow=1&safe=strict&ei=xm7SUfmbM4XkkgX0p4GACw&start=10&sa=N)
 + [TCPDF使用教程](http://ww29.ec-shalom.com/181_tcpdfshiyongjiaocheng.html)
 + [the exported PDF Can't display the right layout - Redmine](http://www.redmine.org/boards/2/topics/38434)
@@ -27,8 +27,8 @@
 ## 修订清单
 
 + 文件：issues_helper.rb 	地址：app\helpers\issues_helper.rb
-  + 文件：show.html.erb 		地址：app\views\issues\show.html.erb
-    + 文件：pdf.rb 				地址：lib\redmine\export\pdf.rb
++ 文件：show.html.erb 		地址：app\views\issues\show.html.erb
++ 文件：pdf.rb 				地址：lib\redmine\export\pdf.rb
 
 ## 修订详情
 
